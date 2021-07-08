@@ -1,4 +1,4 @@
-# Object Oriented Programming Project (Autopark System)
+# Object Oriented Programming Project (Autopark Management System)
 * This project is given in the lecture of object oriented programming.
 * Project is designed by 2 people, Enes Tezcan was my project partner, all thanks to him :).
 * It is a basic autopark management system interface.
